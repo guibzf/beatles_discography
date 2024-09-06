@@ -14,4 +14,4 @@ Uma aplicação web para explorar a discografia dos Beatles, com a possibilidade
 * CSS
 * JavaScript
 
-* link de acesso Vercel: https://beatles-discography-iota.vercel.app/
+Link de acesso Vercel: https://beatles-discography-iota.vercel.app/
